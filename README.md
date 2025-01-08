@@ -1,5 +1,7 @@
 # Gesture Recognition for Smart TV Control
 
+![Smart TV Gesture Recognition](smarttv.png)
+
 ## Project Overview
 This project addresses the challenge of creating an intelligent gesture recognition system for smart TVs, enabling users to control their devices without a remote. By utilizing a webcam, the system identifies five specific gestures—thumbs up, thumbs down, left swipe, right swipe, and stop—each mapped to commands like volume control, playback navigation, and pausing. The solution processes video sequences of 30 frames and employs cutting-edge deep learning techniques to achieve robust spatiotemporal modeling and high accuracy.
 
